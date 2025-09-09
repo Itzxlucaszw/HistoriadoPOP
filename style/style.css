@@ -49,6 +49,7 @@
 
  .historia{
   background-color: var(--cor1);
+  font-weight: bold;
   margin: 0 10px;
   padding:  5px 10px;
   border-radius: 3px;
@@ -63,6 +64,7 @@
 
   .musica{
   background-color: var(--cor1);
+  font-weight: bold;
   margin: 0 20px;
   padding:  5px 10px;
   border-radius: 3px;
